@@ -1,7 +1,3 @@
- netflix-data-cleaning-analysis
- 
-Cleaning and analyzing Netflix movies &amp; TV shows dataset
-
 Netflix Data Cleaning and Analysis
 This project focuses on cleaning and preparing a Netflix Movies and TV Shows dataset using Python and Pandas.
 
