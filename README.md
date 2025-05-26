@@ -7,15 +7,15 @@ This project focuses on cleaning and preparing a Netflix Movies and TV Shows dat
 
  🧼 Data Cleaning Steps Performed
 
-- ✅ Removed duplicate records
-- ✅ Converted `date_added` column to datetime format
-- ✅ Filled missing values:
-  - 'director', 'cast', 'country' → "Unknown"
-- ✅ unique values in each column
-- ✅ Typecasting 'duration' from string to integer
-- ✅ Typecasting 'date_added' from string to datetime
+ - Removed duplicate records
+ -  Converted `date_added` column to datetime format
+ -  Filled missing values:
+   - 'director', 'cast', 'country' → "Unknown"
+ -  unique values in each column
+ -  Typecasting 'duration' from string to integer
+ -  Typecasting 'date_added' from string to datetime
 
-## 📁 Files Included
+  📁 Files Included
 
 - `Netflix_cleaned_dataset.csv`: Dataset
 - `netflix_data_cleaning.ipynb`: Colab notebook with code
